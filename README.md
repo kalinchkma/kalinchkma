@@ -39,8 +39,8 @@
 ---
 
 
-[twitter]: https://twitter.com/Kalinchakma14
-[linkedin]: https://www.linkedin.com/in/hunter-collins-334079190/
+[twitter]: https://twitter.com/mrnanashi10211
+[linkedin]: https://www.linkedin.com/in/mr-nanashi-334079190/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://html5.org/
 [css3]: https://www.w3.org/Style/CSS/
