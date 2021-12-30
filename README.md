@@ -1,13 +1,13 @@
-### Hi there, I'm Nanashi 👋 
+### Hi there, I'm Nanashi 🙂 
 
 
 
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developer
+- 👯 I’m looking to collaborate with other Developer 😁
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play a video games and drink wine 😁👋
 
 ### Connect with me:
 
