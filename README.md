@@ -1,6 +1,6 @@
 ### Hi there, I'm Kalin 🥴 
 
-## I'm a Part Time Student and Part Time Developer!!😁🥶
+## I'm a Part Time Student and Part Time Developer!! 😁🥶
 
 - 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other Developer 🫱🏻‍🫲🏿
