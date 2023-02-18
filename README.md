@@ -1,13 +1,12 @@
-### Hi there, I'm Nanashi (Kalin) 🙂 
+### Hi there, I'm Kalin 🙂 
 
-
-
-## I'm a Student and Developer!!
+## I'm a Part Time Student and Part Time Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer 😁
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play a video games and drink alcohol 😁👋
+- 📖 My Phobia is Trying to learn new concepts/tools in a short time 😵‍💫😵‍💫😵‍💫
 
 ### Connect with me:
 
@@ -51,6 +50,5 @@
 [sql]: https://www.mysql.com/
 [mysql]: https://www.mysql.com/
 [mongodb]: https://www.mongodb.com/
-[git]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [github]: https://github.com/
 [php]: https://www.php.net/
