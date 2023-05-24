@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other Developer 🫱🏻‍🫲🏿
 - 📖 My Phobia is Trying to learn new concepts/tools in a short time 😵‍💫😵‍💫😵‍💫
-- 🥅 Goals: Contribute more to a projects 
+- 🥅 Goals: Contribute with another developer
+- 👽 Dream: I want to see the edges of the universe
 - ⚡ Fun fact: I love to play a video games and drink alcohol 😇
 
 ### Connect with me:
