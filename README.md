@@ -1,11 +1,11 @@
-### Hi there, I'm Kalin 🥴 
+### Hello there, I'm Kalin 🥴 
 
 ## I'm a Part Time Student and Part Time Developer!! 😁🥶
 
 - 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other Developer 🫱🏻‍🫲🏿
 - 📖 My Phobia is Trying to learn new concepts/tools in a short time 😵‍💫😵‍💫😵‍💫
-- 🥅 Goals: Contribute more to Open Source projects 
+- 🥅 Goals: Contribute more to a projects 
 - ⚡ Fun fact: I love to play a video games and drink alcohol 😇
 
 ### Connect with me:
