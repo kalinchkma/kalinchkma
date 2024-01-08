@@ -22,13 +22,14 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars.githubusercontent.com/visual-studio-code" />][vscode]
 [<img align="left" alt="ubuntu" width="26px" src="https://avatars.githubusercontent.com/ubuntu" />][ubuntu]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="nextjs" width="26px" target="_blank" src="https://avatars.githubusercontent.com/nextjs" />][nextjs]
+
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="php" width="26px" src="https://avatars.githubusercontent.com/u/25158" />][php]
 [<img align="left" alt="python" width="26px" target="_blank" src="https://avatars.githubusercontent.com/python" />][python]
-[<img align="left" alt="nextjs" width="26px" target="_blank" src="https://avatars.githubusercontent.com/nextjs" />][nextjs]
 [<img align="left" alt="pytorch" width="26px" target="_blank" src="https://avatars.githubusercontent.com/pytorch" />][pytorch]
 
 
