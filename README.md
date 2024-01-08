@@ -17,7 +17,7 @@
 <br />
 
 
-### Languages and Tools That I use:
+### Technology that I use:
 
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://avatars.githubusercontent.com/visual-studio-code" />][vscode]
 [<img align="left" alt="ubuntu" width="35px" src="https://avatars.githubusercontent.com/ubuntu" />][ubuntu]
