@@ -1,13 +1,12 @@
 ### Hello there, I'm Kalin 🥴 
 
-## I'm a Part Time Student and Part Time Developer!! 😁🥶
+## I'm a Student and Part-Time Developer!! 😁🥶
 
 - 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other Developer 🫱🏻‍🫲🏿
 - 📖 My Phobia is Trying to learn new concepts/tools in a short time 😵‍💫😵‍💫😵‍💫
-- 🥅 Goals: Contribute with another developer
 - 👽 Dream: I want to see the edges of the universe
-- ⚡ Fun fact: I love to play a video games and drink alcohol 😇
+- ⚡ Fun fact: I love to play video games and drink alcohol 😇
 
 ### Connect with me:
 
@@ -32,6 +31,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="php" width="26px" src="https://avatars.githubusercontent.com/u/25158" />][php]
+[<img align="left" alt="php" width="26px" src="https://staging.python.org/static/community_logos/python-logo.png" />][python]
+
 <br />
 <br />
 
@@ -52,3 +53,4 @@
 [mongodb]: https://www.mongodb.com/
 [github]: https://github.com/
 [php]: https://www.php.net/
+[python]: https://staging.python.org/
